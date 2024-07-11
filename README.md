@@ -1,5 +1,5 @@
 # Data-Science
-Data science projects I've created for myself to learn.  Going foward I will try to use data that I can use for researching for my doctorate I plan to start soon instead of dummy data.
+This is my first data science project I've created for myself to learn.  Going foward I will try to use data that I can use for researching for a masters degree in data analytics I plan to start soon instead of dummy data.
 
 My First Website Scraped
 
