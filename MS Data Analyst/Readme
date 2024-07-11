@@ -10,7 +10,7 @@ This repository showcases a collection of projects completed during my Master's 
 
 ## Project Descriptions (Optional)
 
-**Project 1: Predicting Customer Churn**
+Project 1: Predicting 5-Star Customer Reviews Yelp Dataset
 
 *This code explores predicting 5-star ratings in Yelp reviews using text analysis. It achieves an accuracy of ~84% and identifies key terms associated with positive reviews. This demonstrates the potential to use text data for both rating prediction and business insights.*
 * ...
