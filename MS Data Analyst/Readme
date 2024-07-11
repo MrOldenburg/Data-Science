@@ -4,7 +4,7 @@ This repository showcases a collection of projects completed during my Master's 
 
 ## Project Listing
 
-* Project 1: Predicting Customer Churn  (Replace with your project title)
+* Project 1: Predicting 5-Star Customer Reviews Yelp Dataset
 * Project 2: Analyzing Stock Market Trends
 * Project 3: Building a Recommendation Engine
 
@@ -12,7 +12,7 @@ This repository showcases a collection of projects completed during my Master's 
 
 **Project 1: Predicting Customer Churn**
 
-*Brief description of the project*
+*This code explores predicting 5-star ratings in Yelp reviews using text analysis. It achieves an accuracy of ~84% and identifies key terms associated with positive reviews. This demonstrates the potential to use text data for both rating prediction and business insights.*
 * ...
 
 **Project 2: Analyzing Stock Market Trends**
