@@ -1,14 +1,33 @@
-# Data-Science
-This is my first data scraping project I've created for myself to learn.  
+## Hi there 👋
 
-My First Website Scraped
+**I'm [Your Name]**, a [Your Title/Profession]. I'm passionate about leveraging data and Python to solve problems and extract insights.
 
-Toscrape-Books-Example.ipynb is python code that scrapes all 50 pages of the website for book title, price and star ratings.  It then writes those values in individual cells in excel neatly.  The code works flawlessly however, stripping the excess characters for the star ratings proved challenging.  
+### My Projects
 
-Problems I ran into:
-A coma in a book title tells excel to write in the next cell. <br />-Fixed by substituting the character in the title from "," into " -"<br />
-		-This causes another problem that may come up, if a title uses a coma for a number such as "10,000 leagues" it will rewrite it as "10-000 leagues".<br />
--When I grabed the star rating it brought with it the rating and the entire tag which was very long and horribly formated. <br />
-		-None of the already documented fixes seemed to work for me so I had to find a way to take it apart like a puzzle.  I'm sure there is a much more efficent way to do this, but hey this is my first data scrape, I call it a win.
+#### Data Science & Machine Learning
 
+* **Time Series Modeling:** This is a college project that uses time series modeling to forecast predictions and detect seasonal trends.  A weekly trend was identified and the predict was relatively accurate, however, it should be noted that the model is only accurate are predicting trends in revenue, not daily revenue income.
+* **Market Basket Analysis:** This was a college project for my masters degree to use A/B testing to draw insights of customer behavoirs.  We found that customers who purchased monitor mounts also purchased Co2 dust off and these two projects pair well together for future marketing initiatives.
+* **NLP and Logistic Regression:** Finaly project, I built a model to predict star ratings based on Yelp reviews using NLP techniques. Further explored topic analysis and word frequency insights.  Findings were that 17% of the 5-star reviews in the yelp dataset were not organic customers and often were "trying" new things.  The findings also suggest that certain items draw people to give 5-star ratings more often such as coffee, sandwhiches or chicken.
+* **Web Scraping Project:** Personal project to grow, I created this project to learn how to use Python to scrape a webpage efficently.  This is a very old project.
 
+#### Technologies
+* Python
+* Core Data Manipulation and Analysis
+* NumPy
+* Pandas
+##### Machine Learning
+* Scikit-learn
+* NLTK (Natural Language Toolkit)
+* Statsmodels
+##### Data Visualization
+* Matplotlib
+* Seaborn
+##### Web Scraping
+* Beautiful Soup
+* Requests
+##### Market Basket Analysis
+Apriori algorithms
+
+### Let's Connect!
+I'm always open to new challenges and collaborations. Feel free to reach out if you have any questions or want to discuss potential projects.
