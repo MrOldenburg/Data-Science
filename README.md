@@ -30,7 +30,7 @@
 * Beautiful Soup
 * Requests
 ##### Market Basket Analysis
-Apriori algorithms
+* Apriori algorithms
 
 ### Let's Connect!
 I'm always open to new challenges and collaborations. Feel free to reach out if you have any questions or want to discuss potential projects.
