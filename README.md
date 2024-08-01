@@ -15,7 +15,7 @@
 
 * **Market Basket Analysis:** This was a college project for my masters degree to use A/B testing to draw insights of customer behavoirs.  We found that customers who purchased monitor mounts also purchased Co2 dust off and these two projects pair well together for future marketing initiatives.
 
-* **NLP and Logistic Regression:** Final project, I built a model to predict star ratings based on Yelp reviews using NLP techniques. Further explored topic analysis and word frequency insights.  Findings were that 17% of the 5-star reviews in the yelp dataset were not organic customers and often were "trying" new things.  The findings also suggest that certain items draw people to give 5-star ratings more often such as coffee, sandwhiches or chicken.
+* **NLP and Logistic Regression:** Final project, I built a model to predict star ratings based on Yelp reviews using NLP techniques. Further explored topic analysis and word frequency insights.  Findings were that 17% of the 5-star reviews in the yelp dataset were not organic customers and often were "trying" new things.  The findings also suggest that certain items draw people to give 5-star ratings more often such as coffee, sandwhiches or chicken.  The presentation I created in Tableau can be found here: [a link](https://public.tableau.com/app/profile/steven.oldenburg5836/viz/YelpDatasetPresentation/Study)
 
 * **Web Scraping Project:** Personal project to grow, I created this project to learn how to use Python to scrape a webpage efficently.  This is a very old project.
 
