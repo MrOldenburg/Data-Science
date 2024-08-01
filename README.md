@@ -4,6 +4,9 @@
 
 ### My Projects
 
+#### Current Project:
+* **Anti Money Laundering GNN Models:**  This is a new modeling technique for AML that produced amazing results, 98%+ accuracy using synthetically created data.  I found the data on kaggle and reviwed some of the literature found here: [a link](https://arxiv.org/pdf/2306.16424)  One thing that stood out is the data used requires a overview of all the data from the banks, so for the model to work it would need a central agency which stores all this private data and be readily shared which is a significant problem.  I created a modeling using a descision tree classifier but created two new fields which quantify the numbers of transactions without all the information being passed as was able to improve scores from 30% to 80% showing a path which may be much more practical with sharing only the number of current and previous transactions to multiple accounts and banks, which allowed the model to predict fan-in, out and scatter methods.  More research will be needed and I will post my results when completed on Kaggle.
+
 #### Data Science & Machine Learning
 
 * **Time Series Modeling:** This is a college project that uses time series modeling to forecast predictions and detect seasonal trends.  A weekly trend was identified and the predict was relatively accurate, however, it should be noted that the model is only accurate are predicting trends in revenue, not daily revenue income.
