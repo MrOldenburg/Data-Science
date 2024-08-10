@@ -17,7 +17,7 @@
 
 * **NLP and Logistic Regression:** Final project, I built a model to predict star ratings based on Yelp reviews using NLP techniques. Further explored topic analysis and word frequency insights.  Findings were that 17% of the 5-star reviews in the yelp dataset were not organic customers and often were "trying" new things.  The findings also suggest that certain items draw people to give 5-star ratings more often such as coffee, sandwhiches or chicken.  The written explination with code can be found [here:](https://github.com/MrOldenburg/Data-Science/blob/main/Market_Basket.pdf) presentation I created in Tableau can be found [here:](https://public.tableau.com/app/profile/steven.oldenburg5836/viz/YelpDatasetPresentation/Study), it contains talking points but not the full video explination I gave to a non-technical audience.
 
-* **Web Scraping Project:** Personal project to grow, I created this project to learn how to use Python to scrape a webpage efficently.  This is a very old project.
+* **Web Scraping Project:** Personal project to grow, I created [This](https://github.com/MrOldenburg/Data-Science/blob/main/Toscrape-Books-Example.ipynb) project to learn how to use Python to scrape a webpage efficently.  This is a very old project, but showcases my willingness and dedication to learn as well as how farm I've come from a simple webscrapper.  This code pulls thousands of book records from torscrape and writes it to a nice and neat .CSV file.
 
 #### Technologies
 * Python
@@ -26,8 +26,9 @@
 * Pandas
 ##### Machine Learning
 * Scikit-learn
-* NLTK (Natural Language Toolkit)
+* NLP - NLTK (Natural Language Toolkit)
 * Statsmodels
+* Tensorflow & Keras
 ##### Data Visualization
 * Matplotlib
 * Seaborn
